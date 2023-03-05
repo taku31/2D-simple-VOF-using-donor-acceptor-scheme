@@ -6,9 +6,9 @@
 
 ## demo
 ・VOF  
-![](img/vof.mp4)  
+![](img/vof.gif)  
 ・Velocity vector   
-![](img/velvec.mp4)  
+![](img/velvec.gif)  
 
 ## Author
 naka
